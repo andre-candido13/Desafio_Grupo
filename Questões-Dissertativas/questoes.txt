@@ -1,0 +1,30 @@
+1.Explique a diferença entre programação orientada a objetos e programação estruturada.
+Programação orientada a objetos oferece aos desenvolvedores um padrão de encapsulamento, construção de classes
+tudo agrupado em objetos. 
+A estruturada o foco está nas funções e nos procedimentos que devem ser seguidos.
+
+2.Dê um exemplo de um design pattern.
+Não sei
+
+3.Explique o que é um banco de dados relacional.
+R: Banco de dados relacional são bancos que conseguem fazer "ligações de 1 para muitos ou de muitos para 1 (1:N).
+Um exemplo é um autor que pode escrever varios livros, 1 para muitos.
+
+4.Dê um exemplo de um algoritmo de busca.
+Um algoritmo de busca é uma idéia que vc pode constituir ao percorrer uma lista de forma linear até encontrar
+um item desejado como por exemplo fazer um for para percorrer um array até encontrar o que foi definido na busca.
+
+5.Explique o que é um algoritmo de ordenação.
+Algoritmo de ordenação é quando na busca você impoe uma regra através de uma logica como por exemplo
+ordenar numeros de forma crescente ou separar vogais de consoantes
+
+6.Explique a diferença entre uma variável e uma constante.
+Variaveis como let e var podem sofrer alteração de valor durante a função ou globalmente, constantes (const) recebe um valor
+e esse valor não pode ser modificado.
+
+7.Dê um exemplo de uma estrutura de controle de fluxo.
+8.Explique o que é um algoritmo.
+9.Dê um exemplo de um tipo de dado primitivo.
+
+10.Explique o que é um objeto.
+Objeto são tipos de dados que contém atributos, que constituem propriedade com valor
